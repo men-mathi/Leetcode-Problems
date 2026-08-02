@@ -1,0 +1,31 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-02T16:14:45.581Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785687285581,
+              "runtime": "3 ms",
+              "memory": "52.3 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        }
+      },
+      "username": "MenmathiAnand"
+    }
+  }
+}
