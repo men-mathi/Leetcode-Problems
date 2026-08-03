@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:17:31.180Z",
+  "lastUpdated": "2026-08-03T14:46:06.241Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -27,6 +27,26 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785768366241,
+              "runtime": "6 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
             }
           }
         }
