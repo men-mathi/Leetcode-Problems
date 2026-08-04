@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T21:33:50.800Z",
+  "lastUpdated": "2026-08-04T22:02:01.164Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -91,6 +91,24 @@
               "runtime": "0 ms",
               "memory": "46.92 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "string-compression": {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785880921164,
+              "runtime": "1 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Two Pointers/String Compression/"
             }
           }
         }

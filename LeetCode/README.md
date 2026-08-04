@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1785879230827" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1785880921206" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,6 +30,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
+
+</details>
+
+
+### Two Pointers
+<details>
+<summary>Click to expand Two Pointers problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 
 </details>
 
