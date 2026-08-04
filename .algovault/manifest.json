@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T21:17:11.128Z",
+  "lastUpdated": "2026-08-04T21:29:45.532Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -67,6 +67,24 @@
               "runtime": "2 ms",
               "memory": "49 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785878985532,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
             }
           }
         }
