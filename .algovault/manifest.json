@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T22:02:01.164Z",
+  "lastUpdated": "2026-08-04T22:11:36.363Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -81,7 +81,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785878985532,
+              "syncedAt": 1785881496363,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
