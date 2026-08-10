@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T14:51:22.922Z",
+  "lastUpdated": "2026-08-10T15:00:53.835Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -175,6 +175,25 @@
               "runtime": "0 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "squares-of-a-sorted-array": {
+          "questionId": "977",
+          "title": "Squares of a Sorted Array",
+          "titleSlug": "squares-of-a-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786374053835,
+              "runtime": "1 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
             }
           }
         }
