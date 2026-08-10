@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T09:22:42.841Z",
+  "lastUpdated": "2026-08-10T14:47:43.583Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -148,6 +148,23 @@
               "runtime": "54 ms",
               "memory": "70.7 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Medium",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "12345678910111213141516class solution {    public int trap(int[] arr) {       int water=0;       int left=0;       int right=arr.length-1;       int leftmax=0;       int rightmax=0;       while(left<right){        if(arr[left]<arr[right]){            if(arr[left]>=leftmax){                leftmax=arr[left];            }            else{                water+=leftmax-arr[left];            }            left++;": {
+              "syncedAt": 1786373263583,
+              "runtime": "0 ms",
+              "memory": "47.56 MB",
+              "githubPath": "LeetCode/General/Trapping Rain Water/"
             }
           }
         }
