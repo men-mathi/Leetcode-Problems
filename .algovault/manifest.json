@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T16:28:35.999Z",
+  "lastUpdated": "2026-08-10T16:31:07.280Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -212,6 +212,12 @@
               "syncedAt": 1786379315999,
               "runtime": "0 ms",
               "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
+            },
+            "1611121413151718192010987654        }            else{                nums1[k]=nums2[j];            }                j--;            k--;        while(j>=0){            nums1[k]=nums2[j];            j--;            k--;            }                i--;                nums1[k]=nums1[i];            if(nums1[i]>nums2[j]){        while(i>=0 && j>=0){        int k=m+n-1;        int j=n-1;": {
+              "syncedAt": 1786379467280,
+              "runtime": "0 ms",
+              "memory": "43.92 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
             }
           }
