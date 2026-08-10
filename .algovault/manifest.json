@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T14:51:16.605Z",
+  "lastUpdated": "2026-08-10T14:51:18.725Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -171,9 +171,9 @@
               "githubPath": "LeetCode/General/Trapping Rain Water/"
             },
             "java": {
-              "syncedAt": 1786373476605,
+              "syncedAt": 1786373478725,
               "runtime": "0 ms",
-              "memory": "47.6 MB",
+              "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
             }
           }
