@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T15:49:17.585Z",
+  "lastUpdated": "2026-08-10T16:28:35.999Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -209,7 +209,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786376957585,
+              "syncedAt": 1786379315999,
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
