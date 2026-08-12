@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T06:17:08.030Z",
+  "lastUpdated": "2026-08-12T06:28:10.172Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -293,6 +293,27 @@
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786516090172,
+              "runtime": "6 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
             }
           }
         }
