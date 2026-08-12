@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:00:36.877Z",
+  "lastUpdated": "2026-08-12T09:14:36.023Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -79,6 +79,25 @@
               "runtime": "2 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
+            }
+          }
+        },
+        "interval-list-intersections": {
+          "questionId": "986",
+          "title": "Interval List Intersections",
+          "titleSlug": "interval-list-intersections",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sweep Line"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786526076023,
+              "runtime": "3 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Interval List Intersections/"
             }
           }
         }
