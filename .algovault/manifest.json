@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T06:38:52.785Z",
+  "lastUpdated": "2026-08-12T06:54:46.140Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -41,6 +41,25 @@
               "runtime": "21 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "partition-array-according-to-given-pivot": {
+          "questionId": "2161",
+          "title": "Partition Array According to Given Pivot",
+          "titleSlug": "partition-array-according-to-given-pivot",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786517686140,
+              "runtime": "4 ms",
+              "memory": "160.1 MB",
+              "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
             }
           }
         }
