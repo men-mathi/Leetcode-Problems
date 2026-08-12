@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T06:54:46.140Z",
+  "lastUpdated": "2026-08-12T07:00:36.877Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -60,6 +60,25 @@
               "runtime": "4 ms",
               "memory": "160.1 MB",
               "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786518036877,
+              "runtime": "2 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
             }
           }
         }
