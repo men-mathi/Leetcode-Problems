@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T06:35:05.723Z",
+  "lastUpdated": "2026-08-12T06:38:52.785Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -22,6 +22,25 @@
               "runtime": "20 ms",
               "memory": "56.7 MB",
               "githubPath": "LeetCode/Array/Boats to Save People/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786516732785,
+              "runtime": "21 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
             }
           }
         }
