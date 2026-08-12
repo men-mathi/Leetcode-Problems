@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T04:50:57.155Z",
+  "lastUpdated": "2026-08-12T03:34:15.167Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -238,6 +238,25 @@
               "runtime": "4 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786505655167,
+              "runtime": "21 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
             }
           }
         }
