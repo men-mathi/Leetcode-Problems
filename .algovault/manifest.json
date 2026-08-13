@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T09:14:36.023Z",
+  "lastUpdated": "2026-08-13T10:42:26.452Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -98,6 +98,25 @@
               "runtime": "3 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Interval List Intersections/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786617746452,
+              "runtime": "17 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
             }
           }
         }
