@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-15T05:36:02.036Z",
+  "lastUpdated": "2026-08-15T06:49:32.089Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -135,6 +135,25 @@
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786776572089,
+              "runtime": "21 ms",
+              "memory": "77.6 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
             }
           }
         }
