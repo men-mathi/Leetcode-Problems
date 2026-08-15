@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T10:42:26.452Z",
+  "lastUpdated": "2026-08-15T05:36:02.036Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -117,6 +117,24 @@
               "runtime": "17 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786772162036,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
         }
