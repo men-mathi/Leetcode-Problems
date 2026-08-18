@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-15T06:49:32.089Z",
+  "lastUpdated": "2026-08-18T03:23:51.897Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -154,6 +154,24 @@
               "runtime": "21 ms",
               "memory": "77.6 MB",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            }
+          }
+        },
+        "search-insert-position": {
+          "questionId": "35",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787023431897,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
             }
           }
         }
