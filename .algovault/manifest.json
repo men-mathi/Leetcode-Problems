@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T03:23:51.897Z",
+  "lastUpdated": "2026-08-19T23:27:37.378Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -172,6 +172,24 @@
               "runtime": "0 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "maximum-number-of-vowels-in-a-substring-of-given-length": {
+          "questionId": "1456",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787182057378,
+              "runtime": "17 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
             }
           }
         }
