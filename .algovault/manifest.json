@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T23:27:37.378Z",
+  "lastUpdated": "2026-08-28T03:37:13.001Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -190,6 +190,25 @@
               "runtime": "17 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
+            }
+          }
+        },
+        "longest-repeating-character-replacement": {
+          "questionId": "424",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787888233001,
+              "runtime": "11 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
             }
           }
         }
