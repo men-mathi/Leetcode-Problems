@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1787888233023" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1791456402243" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
 | 986 | [Interval List Intersections](./Array/Interval%20List%20Intersections/) | Medium |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](./Array/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 
 </details>

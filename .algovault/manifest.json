@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:37:13.001Z",
+  "lastUpdated": "2026-10-08T10:46:42.211Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -209,6 +209,25 @@
               "runtime": "11 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
+            }
+          }
+        },
+        "longest-subarray-of-1s-after-deleting-one-element": {
+          "questionId": "1493",
+          "title": "Longest Subarray of 1's After Deleting One Element",
+          "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791456402210,
+              "runtime": "3 ms",
+              "memory": "72.9 MB",
+              "githubPath": "LeetCode/Array/Longest Subarray of 1's After Deleting One Element/"
             }
           }
         }
