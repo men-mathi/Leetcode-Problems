@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-09T08:22:58.590Z",
+  "lastUpdated": "2026-10-09T08:35:42.667Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -248,6 +248,25 @@
               "runtime": "8 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791534942667,
+              "runtime": "10 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
             }
           }
         }
