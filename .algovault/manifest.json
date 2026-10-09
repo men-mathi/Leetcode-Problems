@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-08T10:46:42.211Z",
+  "lastUpdated": "2026-10-09T08:22:58.590Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -228,6 +228,26 @@
               "runtime": "3 ms",
               "memory": "72.9 MB",
               "githubPath": "LeetCode/Array/Longest Subarray of 1's After Deleting One Element/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791534178590,
+              "runtime": "8 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
             }
           }
         }
