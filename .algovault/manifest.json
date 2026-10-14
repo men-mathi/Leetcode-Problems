@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-09T08:35:42.667Z",
+  "lastUpdated": "2026-10-14T09:17:28.629Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -267,6 +267,25 @@
               "runtime": "10 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791969448629,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
             }
           }
         }
