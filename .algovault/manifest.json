@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-14T10:58:30.266Z",
+  "lastUpdated": "2026-10-14T11:00:25.563Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -304,6 +304,24 @@
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "house-robber-ii": {
+          "questionId": "213",
+          "title": "House Robber II",
+          "titleSlug": "house-robber-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791975625563,
+              "runtime": "0 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Array/House Robber II/"
             }
           }
         }
