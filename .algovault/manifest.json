@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-14T09:17:28.629Z",
+  "lastUpdated": "2026-10-14T10:58:30.266Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -286,6 +286,24 @@
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Math/Climbing Stairs/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791975510266,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
             }
           }
         }
