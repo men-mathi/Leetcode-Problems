@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T14:51:49.708Z",
+  "lastUpdated": "2026-10-18T16:02:49.982Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -377,6 +377,24 @@
               "runtime": "32 ms",
               "memory": "104.6 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792339369982,
+              "runtime": "3 ms",
+              "memory": "69.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
             }
           }
         }
