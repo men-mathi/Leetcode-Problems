@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T16:02:49.982Z",
+  "lastUpdated": "2026-10-18T16:19:40.909Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -395,6 +395,25 @@
               "runtime": "3 ms",
               "memory": "69.4 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792340380909,
+              "runtime": "2 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
             }
           }
         }
