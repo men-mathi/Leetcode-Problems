@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-14T11:00:25.563Z",
+  "lastUpdated": "2026-10-18T05:49:54.615Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -322,6 +322,24 @@
               "runtime": "0 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Array/House Robber II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iii": {
+          "questionId": "123",
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792302594615,
+              "runtime": "2 ms",
+              "memory": "75.3 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
             }
           }
         }
