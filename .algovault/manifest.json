@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T16:19:40.909Z",
+  "lastUpdated": "2026-10-18T16:22:14.662Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -244,9 +244,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1791534178590,
+              "syncedAt": 1792340534662,
               "runtime": "8 ms",
-              "memory": "43.8 MB",
+              "memory": "43.3 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
             }
           }
