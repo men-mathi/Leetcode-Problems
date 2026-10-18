@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T14:41:19.306Z",
+  "lastUpdated": "2026-10-18T14:51:49.708Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -358,6 +358,25 @@
               "runtime": "2 ms",
               "memory": "93.9 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792335109708,
+              "runtime": "32 ms",
+              "memory": "104.6 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
             }
           }
         }
