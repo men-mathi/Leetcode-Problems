@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T16:22:14.662Z",
+  "lastUpdated": "2026-10-18T16:30:22.173Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -414,6 +414,26 @@
               "runtime": "2 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
+            }
+          }
+        },
+        "subarrays-with-k-different-integers": {
+          "questionId": "992",
+          "title": "Subarrays with K Different Integers",
+          "titleSlug": "subarrays-with-k-different-integers",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792341022173,
+              "runtime": "50 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
             }
           }
         }
