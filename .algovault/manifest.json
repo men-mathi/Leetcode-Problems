@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T16:30:22.173Z",
+  "lastUpdated": "2026-10-18T16:40:39.243Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -434,6 +434,26 @@
               "runtime": "50 ms",
               "memory": "49.8 MB",
               "githubPath": "LeetCode/Array/Subarrays with K Different Integers/"
+            }
+          }
+        },
+        "binary-subarrays-with-sum": {
+          "questionId": "930",
+          "title": "Binary Subarrays With Sum",
+          "titleSlug": "binary-subarrays-with-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792341639243,
+              "runtime": "1 ms",
+              "memory": "50.3 MB",
+              "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
             }
           }
         }
