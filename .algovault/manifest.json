@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-18T16:40:39.243Z",
+  "lastUpdated": "2026-10-19T13:17:47.276Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -450,9 +450,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1792341639243,
+              "syncedAt": 1792415867276,
               "runtime": "1 ms",
-              "memory": "50.3 MB",
+              "memory": "50.5 MB",
               "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
             }
           }
