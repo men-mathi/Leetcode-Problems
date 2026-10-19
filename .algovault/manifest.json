@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-19T13:28:19.279Z",
+  "lastUpdated": "2026-10-19T13:37:47.752Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -263,7 +263,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1791534942667,
+              "syncedAt": 1792417067752,
               "runtime": "10 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
