@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-19T13:17:47.276Z",
+  "lastUpdated": "2026-10-19T13:21:27.548Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -454,6 +454,26 @@
               "runtime": "1 ms",
               "memory": "50.5 MB",
               "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792416087548,
+              "runtime": "4 ms",
+              "memory": "54.6 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
             }
           }
         }
