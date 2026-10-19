@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-19T13:21:27.548Z",
+  "lastUpdated": "2026-10-19T13:28:19.279Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -474,6 +474,27 @@
               "runtime": "4 ms",
               "memory": "54.6 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "count-number-of-nice-subarrays": {
+          "questionId": "1248",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1792416499279,
+              "runtime": "13 ms",
+              "memory": "59.5 MB",
+              "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
             }
           }
         }
