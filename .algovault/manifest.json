@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-19T14:16:33.631Z",
+  "lastUpdated": "2026-10-19T14:17:05.711Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -511,9 +511,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1792419393631,
+              "syncedAt": 1792419425711,
               "runtime": "1 ms",
-              "memory": "42.3 MB",
+              "memory": "42.4 MB",
               "githubPath": "LeetCode/Hash Table/Substrings of Size Three with Distinct Characters/"
             }
           }
