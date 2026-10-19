@@ -2,11 +2,11 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         ArrayList<Integer>list=new ArrayList<>();
         int left=0;
-        int freq[]=new int[26];
-        int windowsize[]=new int[26];
         if(p.length()>s.length()){
             return list;
         }
+        int freq[]=new int[26];
+        int windowsize[]=new int[26];
         for(int i=0;i<p.length();i++){
             freq[p.charAt(i)-'a']++;
             windowsize[s.charAt(i)-'a']++;
@@ -23,5 +23,7 @@ class Solution {
             }
         }
         return list;
+
     }
+        
 }
