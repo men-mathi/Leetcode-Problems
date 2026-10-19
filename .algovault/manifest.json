@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-19T13:39:05.165Z",
+  "lastUpdated": "2026-10-19T13:59:47.519Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -186,7 +186,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787182057378,
+              "syncedAt": 1792418387519,
               "runtime": "17 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
