@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-27T11:02:15.025Z",
+  "lastUpdated": "2026-10-27T11:03:26.911Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -572,9 +572,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1793098935025,
+              "syncedAt": 1793099006911,
               "runtime": "2 ms",
-              "memory": "42.4 MB",
+              "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
             }
           }
