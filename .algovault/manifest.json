@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-27T10:29:51.087Z",
+  "lastUpdated": "2026-10-27T11:02:15.025Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -555,6 +555,27 @@
               "runtime": "31 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Partition Equal Subset Sum/"
+            }
+          }
+        },
+        "target-sum": {
+          "questionId": "494",
+          "title": "Target Sum",
+          "titleSlug": "target-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1793098935025,
+              "runtime": "2 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Target Sum/"
             }
           }
         }

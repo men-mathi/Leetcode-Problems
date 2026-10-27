@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1793096991119" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1793098935054" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -27,6 +27,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 416 | [Partition Equal Subset Sum](./Array/Partition%20Equal%20Subset%20Sum/) | Medium |
+| 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
