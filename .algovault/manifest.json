@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-27T10:21:36.428Z",
+  "lastUpdated": "2026-10-27T10:29:51.087Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -535,6 +535,26 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "partition-equal-subset-sum": {
+          "questionId": "416",
+          "title": "Partition Equal Subset Sum",
+          "titleSlug": "partition-equal-subset-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1793096991087,
+              "runtime": "31 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Partition Equal Subset Sum/"
             }
           }
         }
