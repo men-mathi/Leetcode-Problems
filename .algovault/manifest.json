@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-19T14:17:05.711Z",
+  "lastUpdated": "2026-10-27T10:21:36.428Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -515,6 +515,26 @@
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Hash Table/Substrings of Size Three with Distinct Characters/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "123456789101112131415161718192021class solution {    public string longestpalindrome(string s) {        string longest=\" \";        for(int i=0;i<s.length();i++){            for(int j=i;j<s.length();j++){                string str=s.substring(i,j);                if(palindrome(str)){                    if(str.length()>longest.length()){                        longest=str;                    }                }            }        }        return longest;    }    public boolean palindrome(string s1){        int left=0;        int right=s1.length()-1;        while(left<right){            if(s1.charat(left)!=s1.charat(right)){                return false;": {
+              "syncedAt": 1793096496428,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }
