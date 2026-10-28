@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-27T11:03:26.911Z",
+  "lastUpdated": "2026-10-28T06:59:07.513Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -534,6 +534,12 @@
               "syncedAt": 1793096496428,
               "runtime": "N/A",
               "memory": "N/A",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            },
+            "java": {
+              "syncedAt": 1793170747513,
+              "runtime": "15 ms",
+              "memory": "42.7 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
