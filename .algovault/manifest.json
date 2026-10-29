@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-29T09:35:21.249Z",
+  "lastUpdated": "2026-10-29T09:49:21.804Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -644,6 +644,26 @@
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "linked-list-cycle-ii": {
+          "questionId": "142",
+          "title": "Linked List Cycle II",
+          "titleSlug": "linked-list-cycle-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1793267361804,
+              "runtime": "0 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
             }
           }
         }
