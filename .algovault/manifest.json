@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-30T06:42:47.885Z",
+  "lastUpdated": "2026-10-30T06:44:22.850Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -703,6 +703,12 @@
             "Binary Tree"
           ],
           "solutions": {
+            "13": {
+              "syncedAt": 1793342662850,
+              "runtime": "0 ms",
+              "memory": "43.04 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
+            },
             "java": {
               "syncedAt": 1793342567884,
               "runtime": "0 ms",
