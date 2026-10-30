@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-30T06:54:08.987Z",
+  "lastUpdated": "2026-10-30T06:57:25.296Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -734,6 +734,26 @@
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1793343445296,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
             }
           }
         }
