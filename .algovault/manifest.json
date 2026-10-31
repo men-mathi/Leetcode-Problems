@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-31T05:37:49.162Z",
+  "lastUpdated": "2026-10-31T05:38:24.526Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -807,7 +807,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1793425069162,
+              "syncedAt": 1793425104526,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
