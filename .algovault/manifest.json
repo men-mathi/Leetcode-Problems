@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-31T05:35:17.219Z",
+  "lastUpdated": "2026-10-31T05:36:05.796Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -773,6 +773,23 @@
               "runtime": "66 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1793424965796,
+              "runtime": "5 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
         }
