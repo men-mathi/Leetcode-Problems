@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1793424893267" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1793424917220" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -47,6 +47,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |

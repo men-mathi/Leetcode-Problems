@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-31T05:34:53.238Z",
+  "lastUpdated": "2026-10-31T05:35:17.219Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -537,9 +537,9 @@
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             },
             "java": {
-              "syncedAt": 1793424893238,
+              "syncedAt": 1793170747513,
               "runtime": "15 ms",
-              "memory": "43 MB",
+              "memory": "42.7 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
@@ -754,6 +754,25 @@
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1793424917219,
+              "runtime": "66 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
         }
