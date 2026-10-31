@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-31T05:36:05.796Z",
+  "lastUpdated": "2026-10-31T05:36:53.418Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -776,20 +776,22 @@
             }
           }
         },
-        "palindrome-number": {
-          "questionId": "9",
-          "title": "Palindrome Number",
-          "titleSlug": "palindrome-number",
-          "difficulty": "Easy",
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
           "tags": [
-            "Math"
+            "Linked List",
+            "Math",
+            "Recursion"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1793424965796,
-              "runtime": "5 ms",
-              "memory": "43.9 MB",
-              "githubPath": "LeetCode/Math/Palindrome Number/"
+              "syncedAt": 1793425013418,
+              "runtime": "1 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
         }
