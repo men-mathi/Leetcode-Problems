@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-07T06:55:03.615Z",
+  "lastUpdated": "2026-11-07T07:31:23.978Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -836,6 +836,25 @@
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1794036683978,
+              "runtime": "198 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
             }
           }
         }
