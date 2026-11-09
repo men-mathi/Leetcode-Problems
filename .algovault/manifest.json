@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-09T03:28:34.375Z",
+  "lastUpdated": "2026-11-09T03:32:25.296Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -690,9 +690,9 @@
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
             },
             "java": {
-              "syncedAt": 1793268414960,
+              "syncedAt": 1794195145296,
               "runtime": "0 ms",
-              "memory": "43.7 MB",
+              "memory": "42.9 MB",
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
             }
           }
