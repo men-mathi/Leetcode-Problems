@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-09T03:26:04.014Z",
+  "lastUpdated": "2026-11-09T03:26:54.818Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -626,12 +626,6 @@
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
-            },
-            "15161718192021222324252627        listnode fast=head;        boolean hascycle=false;        while(fast!=null && fast.next!=null){            slow=slow.next;            fast=fast.next.next;            if(slow==fast){                hascycle=true;                break;            }        }        return hascycle;    }}": {
-              "syncedAt": 1794194764014,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
             }
           }
         },
@@ -669,6 +663,12 @@
               "syncedAt": 1793267361804,
               "runtime": "0 ms",
               "memory": "46 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
+            },
+            "2021222324252627282930                slow=head;                while(slow!=fast){                    slow=slow.next;                    fast=fast.next;                }                return slow;            }        }        return null;    }}": {
+              "syncedAt": 1794194814818,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
             }
           }

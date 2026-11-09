@@ -1,53 +1,71 @@
 # 142. Linked List Cycle II
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/linked-list-cycle-ii/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given the <code>head</code> of a linked list, return <em>the node where the cycle begins. If there is no cycle, return </em><code>null</code>.</p>
+Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
 
-<p>There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the <code>next</code> pointer. Internally, <code>pos</code> is used to denote the index of the node that tail&#39;s <code>next</code> pointer is connected to (<strong>0-indexed</strong>). It is <code>-1</code> if there is no cycle. <strong>Note that</strong> <code>pos</code> <strong>is not passed as a parameter</strong>.</p>
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to (0-indexed). It is -1 if there is no cycle. Note that pos is not passed as a parameter.
 
-<p><strong>Do not modify</strong> the linked list.</p>
+Do not modify the linked list.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png" style="height: 145px; width: 450px;" />
-<pre>
-<strong>Input:</strong> head = [3,2,0,-4], pos = 1
-<strong>Output:</strong> tail connects to node index 1
-<strong>Explanation:</strong> There is a cycle in the linked list, where tail connects to the second node.
-</pre>
+ 
+Example 1:
 
-<p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png" style="height: 105px; width: 201px;" />
-<pre>
-<strong>Input:</strong> head = [1,2], pos = 0
-<strong>Output:</strong> tail connects to node index 0
-<strong>Explanation:</strong> There is a cycle in the linked list, where tail connects to the first node.
-</pre>
+Input: head = [3,2,0,-4], pos = 1
+Output: tail connects to node index 1
+Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
-<p><strong class="example">Example 3:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png" style="height: 65px; width: 65px;" />
-<pre>
-<strong>Input:</strong> head = [1], pos = -1
-<strong>Output:</strong> no cycle
-<strong>Explanation:</strong> There is no cycle in the linked list.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 2:
 
-<ul>
-	<li>The number of the nodes in the list is in the range <code>[0, 10<sup>4</sup>]</code>.</li>
-	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
-	<li><code>pos</code> is <code>-1</code> or a <strong>valid index</strong> in the linked-list.</li>
-</ul>
+Input: head = [1,2], pos = 0
+Output: tail connects to node index 0
+Explanation: There is a cycle in the linked list, where tail connects to the first node.
 
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
 
+Example 3:
+
+Input: head = [1], pos = -1
+Output: no cycle
+Explanation: There is no cycle in the linked list.
+
+
+ 
+Constraints:
+
+
+	The number of the nodes in the list is in the range [0, 104].
+	-105 <= Node.val <= 105
+	pos is -1 or a valid index in the linked-list.
+
+
+ 
+Follow up: Can you solve it using O(1) (i.e. constant) memory?
+
+## Examples
+
+```
+Input: head = [3,2,0,-4], pos = 1
+Output: tail connects to node index 1
+Explanation: There is a cycle in the linked list, where tail connects to the second node.
+
+Input: head = [1,2], pos = 0
+Output: tail connects to node index 0
+Explanation: There is a cycle in the linked list, where tail connects to the first node.
+
+Input: head = [1], pos = -1
+Output: no cycle
+Explanation: There is no cycle in the linked list.
+```
+
+## Constraints
+
+- The number of the nodes in the list is in the range [0, 104].
+- -105 <= Node.val <= 105
+- pos is -1 or a valid index in the linked-list.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
