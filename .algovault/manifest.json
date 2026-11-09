@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-09T03:28:10.508Z",
+  "lastUpdated": "2026-11-09T03:28:34.375Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -596,9 +596,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1794194890508,
+              "syncedAt": 1793263415592,
               "runtime": "0 ms",
-              "memory": "43.7 MB",
+              "memory": "43.8 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
             },
             "78910111213141516171819212022 *     listnode(int val) { this.val = val; } *     listnode(int val, listnode next) { this.val = val; this.next = next; } * } */class solution {    public listnode reverselist(listnode head) {        listnode prev=null;        while(head!=null){            listnode next=head.next;            head.next=prev;            prev=head;            head=next;        }    }        return prev;}": {
@@ -640,9 +640,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1793266521249,
+              "syncedAt": 1794194914375,
               "runtime": "0 ms",
-              "memory": "42.7 MB",
+              "memory": "42.4 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
             }
           }
