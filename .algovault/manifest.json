@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-09T03:32:25.296Z",
+  "lastUpdated": "2026-11-09T03:32:47.811Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -690,9 +690,9 @@
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
             },
             "java": {
-              "syncedAt": 1794195145296,
+              "syncedAt": 1793268414960,
               "runtime": "0 ms",
-              "memory": "42.9 MB",
+              "memory": "43.7 MB",
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
             }
           }
@@ -861,6 +861,24 @@
               "runtime": "198 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1794195167811,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
             }
           }
         }
