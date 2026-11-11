@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-09T03:32:47.811Z",
+  "lastUpdated": "2026-11-11T01:20:40.368Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -879,6 +879,25 @@
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1794360040368,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
             }
           }
         }
