@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-21T10:45:40.873Z",
+  "lastUpdated": "2026-11-21T10:54:49.575Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -934,6 +934,24 @@
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "find-pivot-index": {
+          "questionId": "724",
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795258489575,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
             }
           }
         }
