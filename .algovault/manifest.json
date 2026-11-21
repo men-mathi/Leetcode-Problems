@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-16T05:11:11.852Z",
+  "lastUpdated": "2026-11-21T10:45:40.873Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -916,6 +916,24 @@
               "runtime": "34 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795257940873,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
             }
           }
         }
