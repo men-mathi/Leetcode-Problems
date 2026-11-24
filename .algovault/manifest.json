@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-24T06:47:02.166Z",
+  "lastUpdated": "2026-11-24T06:55:42.729Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -991,9 +991,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1795502822166,
+              "syncedAt": 1795503342729,
               "runtime": "8 ms",
-              "memory": "47.4 MB",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
             }
           }
