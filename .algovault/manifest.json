@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-22T05:12:12.747Z",
+  "lastUpdated": "2026-11-24T06:31:47.450Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -933,6 +933,12 @@
               "syncedAt": 1795257940873,
               "runtime": "0 ms",
               "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            },
+            "12345678910class solution {    public int[] runningsum(int[] nums) {        int prefix[]=new int[nums.length];        prefix[0]=nums[0];        for(int i=1;i<nums.length;i++){            prefix[i]=nums[i]+prefix[i-1];        }        return prefix;    }}": {
+              "syncedAt": 1795501907450,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
             }
           }
