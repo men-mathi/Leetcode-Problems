@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-24T06:31:47.450Z",
+  "lastUpdated": "2026-11-24T06:37:34.288Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -958,6 +958,24 @@
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
+            }
+          }
+        },
+        "find-the-highest-altitude": {
+          "questionId": "1732",
+          "title": "Find the Highest Altitude",
+          "titleSlug": "find-the-highest-altitude",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "1234567891011class solution {    public int largestaltitude(int[] gain) {        int maxalti=0;        int alti=0;        for(int i=0;i<gain.length;i++){            alti=alti+gain[i];            maxalti=math.max(alti,maxalti);        }        return maxalti;    }}": {
+              "syncedAt": 1795502254288,
+              "runtime": "0 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Find the Highest Altitude/"
             }
           }
         }
