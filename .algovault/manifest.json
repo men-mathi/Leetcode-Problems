@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-24T06:37:34.288Z",
+  "lastUpdated": "2026-11-24T06:46:28.485Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -976,6 +976,24 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Find the Highest Altitude/"
+            }
+          }
+        },
+        "left-and-right-sum-differences": {
+          "questionId": "2574",
+          "title": "Left and Right Sum Differences",
+          "titleSlug": "left-and-right-sum-differences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795502788485,
+              "runtime": "2 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Left and Right Sum Differences/"
             }
           }
         }
