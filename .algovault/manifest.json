@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-24T06:46:28.485Z",
+  "lastUpdated": "2026-11-24T06:47:02.166Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -979,21 +979,22 @@
             }
           }
         },
-        "left-and-right-sum-differences": {
-          "questionId": "2574",
-          "title": "Left and Right Sum Differences",
-          "titleSlug": "left-and-right-sum-differences",
+        "range-sum-query-immutable": {
+          "questionId": "303",
+          "title": "Range Sum Query - Immutable",
+          "titleSlug": "range-sum-query-immutable",
           "difficulty": "Easy",
           "tags": [
             "Array",
+            "Design",
             "Prefix Sum"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1795502788485,
-              "runtime": "2 ms",
-              "memory": "45.2 MB",
-              "githubPath": "LeetCode/Array/Left and Right Sum Differences/"
+              "syncedAt": 1795502822166,
+              "runtime": "8 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
             }
           }
         }

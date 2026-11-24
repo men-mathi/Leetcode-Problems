@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1795502788510" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1795502822167" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -31,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 416 | [Partition Equal Subset Sum](./Array/Partition%20Equal%20Subset%20Sum/) | Medium |
 | 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
@@ -45,7 +46,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1493 | [Longest Subarray of 1's After Deleting One Element](./Array/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/) | Medium |
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
-| 2574 | [Left and Right Sum Differences](./Array/Left%20and%20Right%20Sum%20Differences/) | Easy |
 
 </details>
 
