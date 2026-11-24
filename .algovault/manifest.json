@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-24T06:57:55.131Z",
+  "lastUpdated": "2026-11-24T06:58:49.264Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -954,9 +954,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1795324332747,
+              "syncedAt": 1795503529264,
               "runtime": "1 ms",
-              "memory": "47.1 MB",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
             }
           }
@@ -991,9 +991,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1795503475131,
-              "runtime": "7 ms",
-              "memory": "47.4 MB",
+              "syncedAt": 1795503342729,
+              "runtime": "8 ms",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
             }
           }
