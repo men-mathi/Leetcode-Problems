@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-28T06:47:46.213Z",
+  "lastUpdated": "2026-11-28T06:50:30.155Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1020,6 +1020,25 @@
               "runtime": "23 ms",
               "memory": "92.8 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795848630155,
+              "runtime": "1 ms",
+              "memory": "76.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
             }
           }
         }
