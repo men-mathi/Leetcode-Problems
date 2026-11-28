@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-28T06:32:42.849Z",
+  "lastUpdated": "2026-11-28T06:47:07.793Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1001,6 +1001,25 @@
               "runtime": "8 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795848427793,
+              "runtime": "26 ms",
+              "memory": "92.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
             }
           }
         }

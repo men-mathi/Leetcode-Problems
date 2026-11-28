@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1795847562876" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MenmathiAnand?theme=tokyonight&show=graph,recent&v=1795848427919" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 416 | [Partition Equal Subset Sum](./Array/Partition%20Equal%20Subset%20Sum/) | Medium |
